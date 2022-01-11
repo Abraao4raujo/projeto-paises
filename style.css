@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    border: 1px solid black;
+    display: block;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    padding: 30px; 
+
+}
+
+div > section{
+}
+
+div#container01{
+    background-image: url(imagens/Portugal.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 70%;
+
+}
