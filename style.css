@@ -18,8 +18,12 @@ h1{
     text-align: center;
     color: white;
     padding: 30px; 
-    width: 300px;
     letter-spacing: 3px;
+}
+
+p{
+    text-align: justify;
+    padding: 15px;
 }
 
 .textogrande{
@@ -68,8 +72,6 @@ div#container02{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     padding-top: 10px;
-    padding-left: 100px;
-    padding-right: 100px;
     padding-bottom: 30px;
     font-size: 1.1em;
     line-height: 30px;
@@ -101,8 +103,8 @@ div#container03{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     padding-top: 10px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 0px;
+    padding-right: 0px;
     padding-bottom: 30px;
     font-size: 1.1em;
     line-height: 30px;
